@@ -1,0 +1,6 @@
+{
+  "name": "幼兒園溝通情境模擬器",
+  "description": "專為幼教老師與教育工作者設計的高擬真對話演練平台，透過 AI 模擬家長、幼兒、主管與同事的真實溝通情境，提供即時情商提示與多維度專業評估。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
